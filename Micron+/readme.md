@@ -24,7 +24,7 @@ Remixed from the original [Voron Variant](https://github.com/VoronDesign/VoronUs
 ![](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/Micron%20Z%20Belt%20Clamp/Images/Logo.png)
 ![](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/Micron%20Z%20Belt%20Clamp/Images/IMG_4057.JPG)
 
-# [KGLM Hex Z-Joint](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/KGLM%20Hex%20Z%20Joint/Images/KGLM_Hex.png)
+# [KGLM Hex Z-Joint](https://github.com/Jadecky/Printer_Mods/tree/main/Micron%2B/KGLM%20Hex%20Z%20Joint)
 
 A slightly chonkier Z Joint to prevent cracking. Half hex shaped, rather than spherical. With Micron Logo or without.
 
