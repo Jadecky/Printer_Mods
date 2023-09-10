@@ -33,7 +33,7 @@ Qty |Part|Notes
 2x|M3x8mm SHCS|To mount the hinges to the frame
 13x|M3x6mm BHCS|10x for mounting printed parts to door, 3x for magnets in TL, TR & BL corners. *(If using VHB, only 3x required)*
 10x|M3 Washer|Optional, but good practice when mounting the printed parts to door panel
-8x|Voron Spec Brass Heatset Inserts|M3x5Dx4.5W
+10x|Voron Spec Brass Heatset Inserts|M3x5Dx4.5W *(Not required for VHB version)*
 2x|M3x35 *minimum* BHCS|For hinges, M3x40, M3x45 will also work
 1x|M3x4mm|For BR Magnet. Unfortunately anything larger will interfere/mark the extrusion.
 6x|M3 Nut|4x for corner magnets, 2x for mounting hinges to frame. 
