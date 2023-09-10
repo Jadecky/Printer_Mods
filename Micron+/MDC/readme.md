@@ -9,7 +9,7 @@ Chonky door hinges & corners that are mounted with screws, and have a magnet in 
 
 **Whilst every effort has been made to ensure this goes as smoothly as possible, it is your responsibility to measure and double check before adding holes to your panel. Please check, double check, and tripple check prior to drilling.**
 
-**If you aren't comfortable/confident enough to drill your panel, there is a DXF so you can get one cut. There is also a VHB version, although this is untested.**
+**If you aren't comfortable/confident enough to drill your panel, there is a DXF so you can get one cut, there is also a VHB version, although this is currently untested.**
 
 ## Why is this a thing?
 
@@ -33,6 +33,8 @@ Qty |Part|Notes
 2x|M3x8mm SHCS|To mount the hinges to the frame
 13x|M3x6mm BHCS|10x for mounting printed parts to door, 3x for magnets in TL, TR & BL corners. *(If using VHB, only 3x required)*
 10x|M3 Washer|Optional, but good practice when mounting the printed parts to door panel
+8x|Voron Spec Brass Heatset Inserts|M3x5Dx4.5W
+2x|M3x35 *minimum* BHCS|For hinges, M3x40, M3x45 will also work
 1x|M3x4mm|For BR Magnet. Unfortunately anything larger will interfere/mark the extrusion.
 6x|M3 Nut|4x for corner magnets, 2x for mounting hinges to frame. 
 
@@ -72,7 +74,9 @@ Qty|STL
 
 ## Drill Guides
 
-You should use a 1mm pilot drill initially, then move up to a 3mm drill bit. Drill slowly without too much pressure and ensure you have a solid base such as a piece of wood. This should prevent cracking your panel. 
+You should use a 1mm/1.5mm pilot drill initially, then move up to a 3mm drill bit. 
+
+Drill slowly without too much pressure, let the drill bit do the work, and ensure you have a solid base such as a piece of wood. This should prevent cracking your panel. 
 
 The drill guides are marked with which corner they should be placed. They go in the same orientation as the hinges, so facing you when looking at the front.
 
@@ -121,6 +125,7 @@ I have added this to my printer without any issues. @Staticanime has also tested
 
 # To Do / Change Log
 - Add hardware to CAD
+- Tidy up CAD
 
 
 
