@@ -1,5 +1,7 @@
 Slightly modified mounts for the awesome Matchstick Diffusers by Maple Leaf Makers
-(Original here)
+Originals here:
+![Matchstick Diffusers - GitHub](https://github.com/MapleLeafMakers/Matchstick_Diffuser)
+![Matchstick Diffusers - Printables](https://www.printables.com/model/408214-matchstick-diffusers)
 
 Allows the matchsticks to be angled down towards the print area.
 
