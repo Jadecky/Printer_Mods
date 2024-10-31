@@ -3,7 +3,7 @@
 
 'Remix' of the original [Bearing Repacker](https://github.com/Annex-Engineering/Misc_Designs/tree/master/Bearing_Repacker) from [Annex-Engineering](https://annex-engineering.eu) for the smaller F623 Bearings found in the Voron V0 and 3D Printers for Ants. 
 
-Now has an M3 heatset, rather than a nut, to prevent unwanted hanfdling of grease covered, sticky nuts. 
+Now has an M3 heatset, rather than a nut, to prevent unwanted handling of grease covered, sticky nuts. 
 ![](https://github.com/Jadecky/Printer_Mods/blob/main/Misc%20Items/F623%20Bearing%20Repacker/Images/Screenshot%202024-10-31%20at%2015.17.43.png)
 
 If using a flanged bearing, the flange should go against the printed part. (See first image)
