@@ -4,7 +4,7 @@
 
 ![](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/Micron%2B%20Bambu%20Nozzle%20Scubber_with%20Purge%20Bucket/Images/Overall.png)
 
-Utilises Bambu Lab Style Silicone Nozzle Scrubber
+Utilises Bambu Lab A1 Style Silicone Nozzle Scrubber
 
 M3x6 BHCS are inserted into the base of the bucket, and attatch to magnets inserted into the base from the underside.
 
@@ -15,7 +15,9 @@ M3x6 BHCS are inserted into the base of the bucket, and attatch to magnets inser
 To ensure this isn't an issue, here's a `base_no_chain.stl` that isn't extended past the chain to allow for different bed locations. 
 
 ## BOM
+
 Qty|Item|Links
+---|----|----
 x9|M3x6 BHCS|
 x6|M3 Hex Nuts|
 x6|6mm x 3mm N52 Magnet|
