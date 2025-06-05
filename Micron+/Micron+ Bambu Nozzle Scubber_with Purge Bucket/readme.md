@@ -1,30 +1,44 @@
-## Micron+ Nozzle Scrubber & Purge Bucket
+# 🧽 Micron+ Nozzle Scrubber & Purge Bucket  
+### *Because even your nozzle deserves a spa day.*
 
-### Keep your nozzle crud and purges in a tidy bucket that's held in place with magnets and screws for easy emptying. 
+![Overall View](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/Micron%2B%20Bambu%20Nozzle%20Scubber_with%20Purge%20Bucket/Images/Overall.png)
 
-![](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/Micron%2B%20Bambu%20Nozzle%20Scubber_with%20Purge%20Bucket/Images/Overall.png)
+Keep your nozzle tidy and your purge blobs contained with this magnetic bucket and silicone scrubber combo — easy to install, easy to empty, and deeply satisfying to use.
 
-Utilises Bambu Lab A1 Style Silicone Nozzle Scrubber
+---
 
-M3x6 BHCS are inserted into the base of the bucket, and attatch to magnets inserted into the base from the underside.
+## 🧼 Features  
+- 🐜 Designed for **Micron+** (Boop Beta 4 bed position by default)  
+- 🧲 **Magnet & screw bucket fitment** for secure mounting and quick removal  
+- 🧽 Uses **Bambu Lab A1-style silicone nozzle scrubber**  
+- ⚙️ Alternate base option included: `base_no_chain.stl` for flexible installs
 
-![](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/Micron%2B%20Bambu%20Nozzle%20Scubber_with%20Purge%20Bucket/Images/Screws_Magnets.png)
+![Screws & Magnets](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/Micron%2B%20Bambu%20Nozzle%20Scubber_with%20Purge%20Bucket/Images/Screws_Magnets.png)
 
-`base.stl` is based on my bed location, I use Boop Beta 4 on my Micron so your bed location may differ. 
+> `base.stl` is aligned for **Boop Beta 4**. If you're using a different cable chain or bed setup, use `base_no_chain.stl` instead.
 
-To ensure this isn't an issue, here's a `base_no_chain.stl` that isn't extended past the chain to allow for different bed locations. 
+---
 
-## BOM
+## 📦 Bill of Materials (BOM)
 
-Qty|Item|Links
+| Qty | Item | Notes / Link |
 ---|----|----
-x9|M3x6 BHCS|
-x6|M3 Hex Nuts|
-x6|6mm x 3mm N52 Magnet|
-x2|4x5 Heatset Insert (Voron spec)|
+x9|M3x6 BHCS|[Aliexpress](https://s.click.aliexpress.com/e/_EuZgLr4)
+x6|M3 Hex Nuts|[Aliexpress](https://s.click.aliexpress.com/e/_EwAgnb8)
+x6|6mm x 3mm N52 Magnet|[Aliexpress](https://s.click.aliexpress.com/e/_EQ4GZeE)
+x2|4x5 Heatset Insert (Voron spec)|[Aliexpress](https://s.click.aliexpress.com/e/_EuBQ66m)
 1x|Bambu Lab A1 Nozzle Scrubber|[Aliexpress](https://s.click.aliexpress.com/e/_Ev16llx)
 
-## Version History
+---
 
-### 20-Nov-24
-Initial Upload
+## 📅 Version History
+
+### 05-Jun-2025
+- Added `nozzle_brush.cfg`
+- Added `nozzle_poop.cfg`
+
+### 20-Nov-2024  
+- Initial release  
+- Added `base_no_chain.stl` for alternate setups  
+
+---
