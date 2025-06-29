@@ -6,4 +6,4 @@ Uses the same mounting hardware as stock.
 
 **Pro Tip:** I recommend VHB'ing all skirt accents to the bottom panel — makes removal much easier when working in the electronics bay.
 
-![Example](Images/SinglePieceAccent.png)
+![Example](Images/Skirt_Accent.png)
