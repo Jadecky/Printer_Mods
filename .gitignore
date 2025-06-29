@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+Icon?
+
+# macOS Finder metadata files
+._*
+
+# Temporary files from editors
+*.swp
+*.swo
+*.tmp

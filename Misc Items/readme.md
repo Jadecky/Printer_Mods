@@ -1,5 +1,9 @@
-# The home of various other items that aren't related to one specific printer.. Or I'm just not sure where they live..
+# Miscellaneous Items
 
-Name|Description
----|----
-F623 Bearing Repacker|Form repacking F623 or any M3 bearing with grease for optimal performance & longevity.
+The home of various bits that don't belong to one specific printer — or I just haven’t decided where they live yet.
+
+| **Name** | **Description** |
+|----------|-----------------|
+| [**F623 Bearing Repacker**](#comingsoon) | For repacking F623 or other M3 bearings with grease for optimal performance and longevity. |
+
+*More random bits will appear here as they get designed or discovered...*

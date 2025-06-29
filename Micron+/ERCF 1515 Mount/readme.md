@@ -1,1 +1,0 @@
-![](https://github.com/Jadecky/Printer_Mods/blob/main/Micron%2B/ERCF%201515%20Mount/Images/ERCF_1515_Mounts.png)

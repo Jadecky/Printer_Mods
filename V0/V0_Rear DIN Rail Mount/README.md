@@ -1,10 +1,10 @@
 ## Rear DIN Rail Mount for the Voron V0
 
-Initially based on [Chirpys DIN Rail Mount](https://github.com/chirpy2605/voron/tree/main/V0/v0.2_Stuff#din-rail-mounts)
+Initially based on [Chirpy's DIN Rail Mount](https://github.com/chirpy2605/voron/tree/main/V0/v0.2_Stuff#din-rail-mounts)
 
 Added more stealth, more bestagons, and optional tension screw to prevent rattling of the rail. 
 
-![](https://github.com/Jadecky/Printer_Mods/blob/main/V0/V0_Rear%20DIN%20Rail%20Mount/Images/Screenshot%202025-02-17%20at%2022.44.37.png)
+![](Images/Screenshot%202025-02-17%20at%2022.44.37.png)
 
 
 ## BOM

@@ -6,8 +6,8 @@ Utilises the existing M3 Nut and hole for mounting the skirt.
 
 Can be mounted in upto 3x different locations, using the different skirt mounts. 
 
-![](https://github.com/Jadecky/Printer_Mods/blob/main/V0/V0_UHP_Mounts/Images/Screenshot%202025-02-17%20at%2023.17.20.png)
-![](https://github.com/Jadecky/Printer_Mods/blob/main/V0/V0_UHP_Mounts/Images/Screenshot%202025-02-17%20at%2023.17.31.png)
+![](Images/Screenshot%202025-02-17%20at%2023.17.20.png)
+![](Images/Screenshot%202025-02-17%20at%2023.17.31.png)
 
 
 ## BOM
