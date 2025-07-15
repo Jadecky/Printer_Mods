@@ -12,7 +12,7 @@ Home to my various mods & QOL Updates for printers I've built, along with config
 | **Bee.Two** | [Micron R1](https://github.com/PrintersForAnts/Micron) | V2.6033 | M.055 | Current Workhorse 🐝 |
 | **Bee.Three** | [StealthFork](https://github.com/PrintersForAnts/StealthFork) | SF.xxx | VT.xxxx | Work in Progress |
 | **Bee.Four** | FireAnt | V2.xxxx | TBC | In Design Stage 🔥 |
-| **Rex 🦖** | [Micron R1 - LDO Beta](https://github.com/PrintersForAnts/Micron) | V2.xxxx | M.202 |  |
+| **Rex 🦖** | [Micron R1 - LDO Beta](https://github.com/PrintersForAnts/Micron) | V2.xxxx | M.202 | Tuning |
 
 
 ---
