@@ -1,4 +1,4 @@
-## Kyle🇬🇧’s Printer Chaos, Mods & Configs 🛠️
+# Kyle🇬🇧’s Printer Chaos, Mods & Configs 🛠️
 Home to my various mods & QOL Updates for printers I've built, along with config backups.
 
 
@@ -12,7 +12,7 @@ Home to my various mods & QOL Updates for printers I've built, along with config
 | **Bee.Two** | [Micron R1](https://github.com/PrintersForAnts/Micron) | V2.6033 | M.055 | Current Workhorse 🐝 |
 | **Bee.Three** | [StealthFork](https://github.com/PrintersForAnts/StealthFork) | SF.xxx | VT.xxxx | Work in Progress |
 | **Bee.Four** | FireAnt | V2.xxxx | TBC | In Design Stage 🔥 |
-| **TBC** | [Micron R1 - LDO Beta](https://github.com/PrintersForAnts/Micron) | V2.xxxx | M.xxx | Building... |
+| **Rex 🦖** | [Micron R1 - LDO Beta](https://github.com/PrintersForAnts/Micron) | V2.xxxx | M.202 |  |
 
 
 ---
@@ -48,10 +48,10 @@ Tiny printer? Tiny door? Needs a satisfying clack
 
 ### - **Voron V0.1848** - Still need to setup auto commit 
 
-### - **Micron M.xxx** - Work in progress
+### - **Micron M.202** - Still need to setup auto commit 
 
 
---
+---
 
 
 Most of these mods are also listed on my [Printables page](https://www.printables.com/@Jadecky3D/models) — if you like what you see, toss me a like or post a make to help me earn that gucci free spool 🧵 and keep the upgrades coming.
