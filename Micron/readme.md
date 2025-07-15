@@ -9,6 +9,8 @@
 | [**Micron Nozzle Scrubber & Purge Bucket**](https://github.com/Jadecky/Printer_Mods/tree/main/Micron/Micron/Micron%2B%20Bambu%20Nozzle%20Scubber_with%20Purge%20Bucket) |
 | [**Skirt Centre Accent Single Piece**](https://github.com/Jadecky/Printer_Mods/tree/main/Micron/Micron/Skirt%20Accent%20Single%20Piece)| 3x centre accent pieces merged into one for slightly cleaner look |
 | [**Stealth Fan Grill**](https://github.com/Jadecky/Printer_Mods/tree/main/Micron/Micron/Stealth%20Fan%20Grills) | Slight modification to the stock Micron+ Fan Grills, reducing the visible accent areas for a more subtle, stealthy look |
+| [**R1 Spool Holder Dual Colour**](https://github.com/Jadecky/Printer_Mods/tree/main/Micron/Micron/R1%20Spool%20Holder_Dual%20Colour) | Spool holder with accent PFA logo. |
+| [**Display Bezel Accent Border**](https://github.com/Jadecky/Printer_Mods/tree/main/Micron/Micron/Display%20Bezel%20Border%20Accent) | Bezel for 4.3 display with small accent on the border and accent logo insert. For those who prefer less accent |
 
 
 ---
