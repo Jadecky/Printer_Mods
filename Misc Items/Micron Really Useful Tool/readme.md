@@ -14,11 +14,8 @@
 
 ### Z Rail
 
-![Z Rail Example](Images/Z_Rail_Mounts.png)
+![Z Rail Example](Images/Z_Rail.png)
 
 ### Bed Extrusion Location
 
-![Bed Frame Example](Images/Bed_Frame_Mounts.png)
-
-
-![ERCF 1515 Mount Example](Images/360.mov)
+![Bed Frame Example](Images/Bed_Frame.png)
