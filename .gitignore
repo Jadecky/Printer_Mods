@@ -9,3 +9,5 @@ Icon?
 *.swp
 *.swo
 *.tmp
+# macOS system files
+.DS_Store
