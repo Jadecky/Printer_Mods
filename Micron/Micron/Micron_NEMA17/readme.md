@@ -1,6 +1,6 @@
 # NEMA17 A/B Motor Upgrade for you Micron
 
-![Overall View](Images/Micron NEMA17.png)
+![Overall View](Images/MicronNEMA17.png)
 
 ---
 
