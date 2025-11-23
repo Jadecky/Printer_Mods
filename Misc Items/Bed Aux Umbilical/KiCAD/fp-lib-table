@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Mounting")(type "KiCad")(uri "${KIPRJMOD}/Mounting.pretty")(options "")(descr ""))
+)
