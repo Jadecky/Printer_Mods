@@ -5,6 +5,12 @@
 
 Keep your nozzle tidy and your purge blobs contained with this magnetic bucket and silicone scrubber combo — easy to install, easy to empty, and deeply satisfying to use.
 
+Now available with the silicone brush on right (original) or left. Placing it on the left reduces any fouling of the toolhead on the Z Chain.
+Thanks to `@vince M.213` for the suggestion to have the new brush on the left variant. 
+
+There is also a different version of the Bucket, and Brush holder for LDO kits as they come with 15mm standoffs for the bed rather than M4 Knurled nuts. 
+
+**IMPORTANT** If using the brush on the left variant, you will need to adjust the co-ordinates in the provided macros if you are using them. 
 ---
 
 ## 🧼 Features  
@@ -31,6 +37,11 @@ x2|4x5 Heatset Insert (Voron spec)|[Aliexpress](https://s.click.aliexpress.com/e
 ---
 
 ## 📅 Version History
+
+### 23-Nov-2025
+- Added `Brush_Holder_LDO_Kit_x1.stl` and `[a]_Bucket_LDO_Kit_x1.stl` for use with LDO Micron R1 Kits
+- Added new variat with the brush on the left, rather than the right
+- Updated CAD to include the above changes, now v15
 
 ### 16-Jun-2025
 - Added `base_stock.stl` for stock Micron bed location
